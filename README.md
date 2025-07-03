@@ -45,7 +45,7 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 
 ## 📫 Let's Connect
 - 📧 Email: [mufikk10@gmail.com](mailto:mufikk10@gmail.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Muhammed Mufsir kk](https://in.linkedin.com/in/muhammed-mufsir-kk-bb8607335?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
 ## 🌱 Currently Learning
