@@ -45,9 +45,8 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 
 ## 📫 Let's Connect
 - 📧 Email: [mufikk10@gmail.com](mailto:mufikk10@gmail.com)
-- 📱 Phone: +91 9539993257
 - 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) (optional)
+
 
 ## 🌱 Currently Learning
 - Advanced Flutter animations
