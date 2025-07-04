@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMED-MUFSIR-KK)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mufikk10@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919539993257)
 
 ## 👨‍💻 About Me
 
@@ -61,16 +60,6 @@ I'm a passionate Flutter developer with expertise in building cross-platform mob
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&langs_count=8&theme=radical"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMED-MUFSIR-KK&theme=radical"/>
 </div>
-
-## 📚 Currently Learning
-- Advanced Flutter animations
-- Clean Architecture patterns
-- GraphQL integration
-- CI/CD pipelines for Flutter
-
-## 🏆 Achievements
-- [List any hackathons, certifications, or recognitions]
-- [Open source contributions if any]
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [Muhammed Mufsir KK](https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/)
