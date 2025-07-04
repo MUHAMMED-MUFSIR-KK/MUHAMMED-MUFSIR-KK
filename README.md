@@ -3,7 +3,7 @@
 
 🚀 **Flutter Developer** | 📍 Malappuram, Kerala, India | 🌐 Open to Remote/Relocate
 
-[![LinkedIn](https://in.linkedin.com/in/muhammed-mufsir-kk-bb8607335)
+[![LinkedIn](https://in.linkedin.com/in/muhammed-mufsir-kk-bb8607335)]
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:mufikk10@gmail.com)
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp)](tel:+919539993257)
 
