@@ -20,7 +20,6 @@ I'm a passionate Flutter developer with expertise in building cross-platform mob
 ### State Management
 ![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-FF7043?style=for-the-badge)
-![Bloc](https://img.shields.io/badge/Bloc-5C2D91?style=for-the-badge)
 
 ### Backend & Database
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
