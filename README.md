@@ -39,7 +39,7 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MUHAMMED-MUFSIR-KK&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
@@ -48,7 +48,3 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 - 💼 LinkedIn: [Muhammed Mufsir kk](https://in.linkedin.com/in/muhammed-mufsir-kk-bb8607335?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
-## 🌱 Currently Learning
-- Advanced Flutter animations
-- Clean Architecture in Flutter
-- GraphQL integration
