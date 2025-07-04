@@ -30,7 +30,7 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 
 ### Task Manager App
 📌 A task-tracking app with Firebase Auth and Firestore integration  
-🔗 [GitHub Link](#) (replace with actual link)  
+🔗 [GitHub Link](#https://github.com/MUHAMMED-MUFSIR-KK/TASK-APP) (replace with actual link)  
 ✔ Firebase Authentication  
 ✔ Real-time data with Firestore  
 ✔ Responsive Flutter UI  
