@@ -41,7 +41,7 @@ Passionate Junior Flutter Developer with hands-on experience developing cross-pl
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MUHAMMED-MUFSIR-KK&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 - 📧 Email: [mufikk10@gmail.com](mailto:mufikk10@gmail.com)
