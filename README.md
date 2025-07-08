@@ -63,7 +63,6 @@ I'm a passionate Flutter developer with expertise in building cross-platform mob
 ## 📫 Let's Connect
 - 💼 LinkedIn: [Muhammed Mufsir KK](https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/)
 - 📧 Email: [mufikk10@gmail.com](mailto:mufikk10@gmail.com)
-- 📱 WhatsApp: [+91 9539993257](https://wa.me/919539993257)
 - 🌐 Portfolio: [Coming Soon]
 
 <div align="center">
