@@ -14,26 +14,26 @@
 
 <div align="center">
 
-### 🌟 Passionate Flutter Developer from Kerala, India
+### 🚀 Flutter Developer | Mobile App Enthusiast | Kerala, India
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### 💡 Innovation
-*Transforming creative ideas into powerful mobile solutions that make a difference in users' daily lives*
+**💡 What I Do**  
+*Building beautiful cross-platform mobile apps with Flutter & Dart*
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 Excellence
-*Committed to writing clean, efficient code and following industry best practices for scalable applications*
+**🎨 My Focus**  
+*Clean code, smooth animations, and pixel-perfect UI designs*
 
 </td>
 <td width="33%" align="center">
 
-### 🌱 Growth
-*Continuously learning and adapting to new technologies in the ever-evolving Flutter ecosystem*
+**🌱 Always Learning**  
+*Exploring new Flutter patterns, state management, and best practices*
 
 </td>
 </tr>
@@ -41,31 +41,10 @@
 
 ---
 
-<div align="left">
-
-🎯 **Mission:** Building cross-platform mobile applications that deliver exceptional user experiences while maintaining high code quality and performance standards.
-
-🌟 **Vision:** To become a recognized contributor in the Flutter community, helping businesses and developers create amazing mobile applications.
-
-🔥 **Current Focus:**
-- Mastering advanced Flutter patterns and state management solutions
-- Exploring AI/ML integration in mobile applications  
-- Contributing to open-source Flutter packages and tools
-- Building scalable e-commerce and social networking applications
-
-💼 **Professional Journey:**
-- Started with a passion for mobile development and user interface design
-- Specialized in Flutter for its cross-platform capabilities and performance
-- Experienced in full-stack mobile development from UI to backend integration
-- Always eager to take on challenging projects that push technical boundaries
-
-🎨 **What Drives Me:**
-- The satisfaction of solving complex problems with elegant solutions
-- Creating intuitive interfaces that users love to interact with
-- Collaborating with fellow developers and learning from the community
-- The excitement of seeing an idea transform into a fully functional app
-
-</div>
+**🔥 Currently working on:** Advanced Flutter projects with complex state management  
+**💡 Learning:** AI/ML integration in mobile apps, Flutter Web & Desktop  
+**🤝 Open to:** Freelance projects, collaborations, and full-time opportunities  
+**⚡ Fun fact:** I love turning creative ideas into real-world mobile solutions!
 
 </div>
 
