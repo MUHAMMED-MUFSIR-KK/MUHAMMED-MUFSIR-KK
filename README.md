@@ -10,7 +10,6 @@
 
 ## About Me
 
-I am a Flutter Developer based in India, specializing in designing and developing robust, user-centric mobile applications that deliver real value. Currently pursuing expertise in cross-platform mobile development with a focus on Flutter and Dart, I am committed to leveraging modern technologies to create scalable and innovative solutions. In addition to my development work, I am deeply engaged in exploring emerging trends in mobile development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
