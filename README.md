@@ -89,18 +89,7 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MUHAMMED-MUFSIR-KK&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%" />
-</td>
-</tr>
-</table>
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=high-contrast&bg_color=0D1117&color=00D9FF&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%" />
