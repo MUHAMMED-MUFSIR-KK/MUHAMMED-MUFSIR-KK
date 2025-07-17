@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=2000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SPACE+FLUTTER+EXPLORER;CODING+ACROSS+GALAXIES;INTERSTELLAR+DEVELOPER;UNIVERSE+OF+APPS" alt="Space Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=400&size=24&duration=3500&pause=1200&color=87CEEB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ICE+CRYSTAL+CODER;FROZEN+FLUTTER+MASTER;ARCTIC+APP+BUILDER;CRYSTAL+CLEAR+CODE" alt="Ice Animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000428,50:004e92,100:4FC3F7&height=140&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:E0F6FF,25:87CEEB,50:4682B4,75:191970,100:000080&height=120&section=header&text=&fontSize=0" />
 </div>
