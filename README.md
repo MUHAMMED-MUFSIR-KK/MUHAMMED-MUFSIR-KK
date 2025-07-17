@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Electrolize&weight=400&size=26&duration=1200&pause=200&color=FFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=⚡+LIGHTNING+CODER+⚡;ELECTRIC+FLUTTER+DEV;HIGH+VOLTAGE+APPS;THUNDER+PROGRAMMER" alt="Lightning Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=4000&pause=1500&color=6B7280&center=true&vCenter=true&multiline=true&width=500&height=80&lines=clean+code;simple+design;flutter+developer;minimal+approach" alt="Minimal Animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000080,25:4169E1,50:FFFF00,75:FFA500,100:000080&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:F9FAFB,100:F3F4F6&height=60&section=header&text=&fontSize=0" />
 </div>
