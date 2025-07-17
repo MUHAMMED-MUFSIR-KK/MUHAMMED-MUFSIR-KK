@@ -21,6 +21,10 @@ I am a Flutter Developer based in India, specializing in designing and developin
 • 🎯 Currently focused on **State Management** and **Clean Architecture**  
 • 📱 I've always been passionate about mobile technology and development
 
+
+
+
+
 ---
 
 ## 💻 Programming Languages
