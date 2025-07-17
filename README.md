@@ -77,29 +77,4 @@
 
 ---
 
-## 💡 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=MUHAMMED-MUFSIR-KK&color=58a6ff&style=flat-square&label=Profile+Views)
-  
-  <h3>⭐ From [MUHAMMED MUFSIR](https://github.com/MUHAMMED-MUFSIR-KK) with ❤️</h3>
-  
-</div>
-### 📊 Profile Statistics
-
-<img src="https://komarev.com/ghpvc/?username=MUHAMMED-MUFSIR-KK&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/MUHAMMED-MUFSIR-KK?label=Followers&style=for-the-badge&color=7C3AED" />
-<img src="https://img.shields.io/github/stars/MUHAMMED-MUFSIR-KK?label=Stars&style=for-the-badge&color=EC4899" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF" />
-
-### 🌟 "Great apps are built by passionate developers who care about users" 🌟
-
-</div>
