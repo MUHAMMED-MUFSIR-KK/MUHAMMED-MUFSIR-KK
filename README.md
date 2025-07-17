@@ -2,7 +2,7 @@
 
 # Hi there, I'm <span style="color: #58a6ff;">MUHAMMED MUFSIR</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer+from+Kerala%2C+India;Building+Beautiful+Mobile+Applications;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer+from+Kerala%2C+India;Building+Mobile+Applications;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 
 </div>
 
@@ -115,4 +115,15 @@
   
   <h3>⭐ From [MUHAMMED MUFSIR](https://github.com/MUHAMMED-MUFSIR-KK) with ❤️</h3>
   
+</div>
+### 📊 Profile Statistics
+
+<img src="https://komarev.com/ghpvc/?username=MUHAMMED-MUFSIR-KK&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/MUHAMMED-MUFSIR-KK?label=Followers&style=for-the-badge&color=7C3AED" />
+<img src="https://img.shields.io/github/stars/MUHAMMED-MUFSIR-KK?label=Stars&style=for-the-badge&color=EC4899" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF" />
+
+### 🌟 "Great apps are built by passionate developers who care about users" 🌟
+
 </div>
