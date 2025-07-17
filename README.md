@@ -59,12 +59,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMED-MUFSIR-KK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMED-MUFSIR-KK&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
@@ -72,11 +67,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMED-MUFSIR-KK&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
 
 ---
 
