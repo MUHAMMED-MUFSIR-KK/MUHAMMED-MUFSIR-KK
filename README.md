@@ -31,25 +31,6 @@ I'm a passionate Flutter developer with expertise in building cross-platform mob
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
-
-### Task Manager App
-📌 **A comprehensive task management solution with cloud synchronization**  
-🔗 [View on GitHub](https://github.com/MUHAMMED-MUFSIR-KK/TASK-APP)  
-✔ Firebase Authentication & Authorization  
-✔ Real-time data synchronization with Firestore  
-✔ Clean Architecture implementation  
-✔ Responsive UI with custom animations  
-✔ Local data persistence  
-
-### E-Commerce App (Work in Progress)
-📌 **Full-featured shopping app with payment integration**  
-🔗 Coming soon  
-✔ Product catalog with filters  
-✔ Shopping cart functionality  
-✔ Payment gateway integration  
-✔ User reviews and ratings  
-
 
 
 ## 📫 Let's Connect
