@@ -1,161 +1,117 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+Developer;" alt="Typing Animation" />
+<div align="center" style="background: #0d1117; padding: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=header&text=&fontSize=0" />
+# Hi there, I'm <span style="color: #58a6ff;">MUHAMMED MUFSIR</span>
 
-</div>
-
----
-
-## 🎯 About Me
-
-<div align="center">
-
-### 🚀 Flutter Developer | Mobile App Enthusiast | Kerala, India
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**💡 What I Do**  
-*Building beautiful cross-platform mobile apps with Flutter & Dart*
-
-</td>
-<td width="33%" align="center">
-
-**🎨 My Focus**  
-*Clean code, smooth animations, and pixel-perfect UI designs*
-
-</td>
-<td width="33%" align="center">
-
-**🌱 Always Learning**  
-*Exploring new Flutter patterns, state management, and best practices*
-
-</td>
-</tr>
-</table>
-
----
-
-**🔥 Currently working on:** Advanced Flutter projects with complex state management  
-**💡 Learning:** AI/ML integration in mobile apps, Flutter Web & Desktop  
-**🤝 Open to:** Freelance projects, collaborations, and full-time opportunities  
-**⚡ Fun fact:** I love turning creative ideas into real-world mobile solutions!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer+from+Kerala%2C+India;Building+Beautiful+Mobile+Applications;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 🛠️ Technology Arsenal
+## About Me
 
-<div align="center">
+I am a Flutter Developer based in India, specializing in designing and developing robust, user-centric mobile applications that deliver real value. Currently pursuing expertise in cross-platform mobile development with a focus on Flutter and Dart, I am committed to leveraging modern technologies to create scalable and innovative solutions. In addition to my development work, I am deeply engaged in exploring emerging trends in mobile development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=000000)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 🏗️ Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50)
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-9C27B0?style=for-the-badge&logoColor=white&labelColor=9C27B0)
-
-### ⚡ State Management
-![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=4285F4)
-![Riverpod](https://img.shields.io/badge/Riverpod-FF7043?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FF7043)
-![BLoC](https://img.shields.io/badge/BLoC-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FF6B6B)
-![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white&labelColor=9C27B0)
-
-### ☁️ Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logoColor=white&labelColor=25D366)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
-
-### 🔧 Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=high-contrast&bg_color=0D1117&color=00D9FF&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%" />
-</div>
+• 🎓 I'm a Flutter Developer  
+• 💻 Open Source Contributor  
+• 🌱 I'm currently learning **Advanced Flutter Techniques**  
+• 👨‍💻 Interested in **Mobile App Development**  
+• 🎯 Currently focused on **State Management** and **Clean Architecture**  
+• 📱 I've always been passionate about mobile technology and development
 
 ---
 
-
-
-## 📬 Let's Connect & Collaborate
+## 💻 Programming Languages
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-<a href="mailto:mufikk10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://github.com/MUHAMMED-MUFSIR-KK">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" />
-</a>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 💡 Open for Opportunities
-- 🌍 **Remote Work:** Available worldwide
-- 🚀 **Freelance Projects:** Flutter development
-- 🤝 **Collaborations:** Open source contributions
-- 💼 **Full-time Roles:** Mobile development positions
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database & Backend
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
 ---
 
-## ☕ Fun Facts About Me
+## 📊 GitHub Statistics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMED-MUFSIR-KK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMED-MUFSIR-KK&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
 
-### 🎮 When I'm Not Coding
-- 🎯 Exploring new Flutter widgets
-- 📚 Reading tech blogs and documentation
-- 🎨 Designing UI mockups
-- 🌟 Contributing to open source
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
-</td>
-<td width="50%">
+---
 
-### 💭 Current Learning Goals
-- 🤖 AI/ML integration in Flutter
-- 🌐 Flutter Web advanced techniques
-- 🖥️ Flutter Desktop development
-- ⚡ Advanced performance optimization
+## 🏆 GitHub Trophies
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMED-MUFSIR-KK&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mufikk10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMED-MUFSIR-KK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
 </div>
 
 ---
 
 <div align="center">
-
-### 📊 Profile Statistics
-
-<img src="https://komarev.com/ghpvc/?username=MUHAMMED-MUFSIR-KK&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/MUHAMMED-MUFSIR-KK?label=Followers&style=for-the-badge&color=7C3AED" />
-<img src="https://img.shields.io/github/stars/MUHAMMED-MUFSIR-KK?label=Stars&style=for-the-badge&color=EC4899" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:EC4899&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF" />
-
-### 🌟 "Great apps are built by passionate developers who care about users" 🌟
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=MUHAMMED-MUFSIR-KK&color=58a6ff&style=flat-square&label=Profile+Views)
+  
+  <h3>⭐ From [MUHAMMED MUFSIR](https://github.com/MUHAMMED-MUFSIR-KK) with ❤️</h3>
+  
 </div>
