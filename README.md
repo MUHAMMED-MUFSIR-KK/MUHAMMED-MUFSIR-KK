@@ -50,15 +50,7 @@ I'm a passionate Flutter developer with expertise in building cross-platform mob
 ✔ Payment gateway integration  
 ✔ User reviews and ratings  
 
-(Add 1-2 more projects with similar detailed structure)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMED-MUFSIR-KK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED-MUFSIR-KK&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMED-MUFSIR-KK&theme=radical"/>
-</div>
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [Muhammed Mufsir KK](https://www.linkedin.com/in/muhammed-mufsir-kk-bb8607335/)
