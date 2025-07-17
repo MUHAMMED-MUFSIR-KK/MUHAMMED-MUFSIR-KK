@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=700&color=FF0080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=NEON+DEVELOPER;CYBER+FLUTTER+EXPERT;DIGITAL+ARCHITECT;FUTURE+BUILDER" alt="Neon Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=SYSTEM+INITIALIZING...;FLUTTER+DEVELOPER+ONLINE;BUILDING+DIGITAL+DREAMS;MATRIX+MODE+ACTIVATED" alt="Matrix Animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,25:8000FF,50:0080FF,75:00FF80,100:FF8000&height=80&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:001100,100:00FF00&height=100&section=header&text=&fontSize=0" />
 </div>
