@@ -85,89 +85,13 @@
 
 </div>
 
----
-
-## 📈 GitHub Analytics
-
-
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=high-contrast&bg_color=0D1117&color=00D9FF&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MUHAMMED-MUFSIR-KK&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project Highlights
-- 📱 **E-Commerce Mobile App**
-  - Flutter + Firebase
-  - State Management: Riverpod
-  - Features: Payment Gateway, Real-time Chat
-
-- 🎵 **Music Streaming App**
-  - Custom Audio Player
-  - Offline Caching
-  - Beautiful Animations
-
-</td>
-<td width="50%">
-
-### 🌟 Open Source Contributions
-- 🔧 **Flutter Packages**
-  - Custom UI Components
-  - Utility Libraries
-  - Plugin Development
-
-- 📚 **Documentation**
-  - Technical Blogs
-  - Code Examples
-  - Best Practices
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🎨 Design Philosophy
-
-<div align="center">
-
-```dart
-class MyDevelopmentPhilosophy {
-  static const principles = [
-    "User Experience First 🎯",
-    "Clean Code Always 🧹",
-    "Performance Matters ⚡",
-    "Test Everything 🧪",
-    "Keep Learning 📚"
-  ];
-  
-  String getMotivation() {
-    return "Building apps that users love, "
-           "with code that developers enjoy reading! 💙";
-  }
-}
-```
-
-</div>
-
----
 
 ## 📬 Let's Connect & Collaborate
 
