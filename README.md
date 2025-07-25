@@ -18,7 +18,7 @@
 • 🌱 I'm currently learning **Advanced Flutter Techniques**  
 • 👨‍💻 Interested in **Mobile App Development**  
 • 🎯 Currently focused on **State Management** and **Clean Architecture**  
-• 📱 I've always been passionate about mobile technology and      development
+• 📱 I've always been passionate about mobile technology and development
 
 
 
