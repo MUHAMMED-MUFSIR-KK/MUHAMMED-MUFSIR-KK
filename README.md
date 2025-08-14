@@ -17,7 +17,6 @@
 • 💻 Open Source Contributor  
 • 🌱 I'm currently learning **Advanced Flutter Techniques**  
 • 👨‍💻 Interested in **Mobile App Development**  
-• 🎯 Currently focused on **State Management** and **Clean Architecture**  
 • 📱 I've always been passionate about mobile technology and development
 
 
@@ -51,7 +50,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMED-MUFSIR-KK&theme=github-                        compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
 </div>
 
 ---
